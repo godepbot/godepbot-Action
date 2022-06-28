@@ -5,4 +5,4 @@
 
 # Depbot Action
 
-Automated workflow for [Depbot CLI](github.com/godepbot/depbot/) tool, that identifies dependencies in a given source code repository.
+Automated workflow for [Depbot CLI](https://github.com/godepbot/depbot) tool, that identifies dependencies in a given source code repository.
